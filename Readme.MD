@@ -1,6 +1,6 @@
 Hello. I'm GabrielHDZ
 
-I'm a Web developer from Chiapas, Mexico. I like programm in Javascript, PHP and Java, i learning Typescrit for improve my skills.
+I'm a Web developer from Chiapas, Mexico. I like programm in Javascript, PHP and Go, i learning Typescrit for improve my skills.
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=)](https://twitter.com/GabrielHDZ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-diaz-1b38801a0)
