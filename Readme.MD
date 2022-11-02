@@ -11,7 +11,6 @@ I'm a Web Developer from Chiapas, Mexico. I like programm in PHP, Javascript and
 ![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FF6666)
 ![Typescript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=FF6666)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=FF6666)
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=FF6666)
 
 ![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=668AFF)
 ![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=668AFF)
@@ -21,5 +20,4 @@ I'm a Web Developer from Chiapas, Mexico. I like programm in PHP, Javascript and
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=FFFC66)
 
 [![ReactJS](https://img.shields.io/badge/Library-ReactJS-informational?style=plastic&logo=react&logoColor=white&color=informational)](https://reactjs.org/)
-[![NextJS](https://img.shields.io/badge/Framework-NextJS-informational?style=plastic&logo=nextjs&logoColor=black&color=informational)](https://nextjs.org/)
 
