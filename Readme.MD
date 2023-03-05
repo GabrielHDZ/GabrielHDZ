@@ -1,6 +1,6 @@
 Hello. I'm GabrielHDZ
 
-I'm a Web Developer from Chiapas, Mexico. I like programm in PHP, Javascript and Typescrit.
+I'm a Web Developer from Chiapas, Mexico. I like programm in PHP, Javascript and Typescript
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=)](https://twitter.com/GHdzHdz)
 
