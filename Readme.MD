@@ -1,4 +1,4 @@
-Hello. I'm GabrielHDZ
+Hi. I'm GabrielHDZ
 
 I'm a Web Developer from Chiapas, Mexico. I like programm in PHP, Javascript and Typescript
 
