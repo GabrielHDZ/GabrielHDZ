@@ -18,8 +18,6 @@ I'm a Web Developer from Mexico. I like programm in PHP, Javascript and Typescri
 ![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=668AFF)
 ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=668AFF)
 
-![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=FFFC66)
-
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=FFFC66)
 
 [![ReactJS](https://img.shields.io/badge/Library-ReactJS-informational?style=plastic&logo=react&logoColor=white&color=informational)](https://reactjs.org/)
