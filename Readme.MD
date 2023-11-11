@@ -67,14 +67,14 @@ I'm a Developer from Mexico. I like programm in PHP, Javascript and Typescript.
 
 <br>
 
-<a href="#DhrumiShah_stats">
+<a href="">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielhdz&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="gabrielhdz" />
 </a>
 
 <br>
 	
 
-<a href="#DhrumiShah_stats">
+<a href="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhdz&show_icons=true&locale=en&layout=compact&theme=onedark" alt="GabrielHDZ" />
 
 </a>
