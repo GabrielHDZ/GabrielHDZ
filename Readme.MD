@@ -38,9 +38,31 @@ I'm a Developer from Mexico. I like programm in PHP, Javascript and Typescript.
   
 
 >Database
-
-
-
+<table>
+	 <tbody>
+  <tr>
+   <td align="Center" width="25%"> 
+      <a href="" >
+        <img src="" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="Center" width="25%">
+      <a href="">
+        <img src="" width="48" height="48" alt="Postgre" />
+      </a>
+      <br>Postgre
+    </td>
+    <td align="Center" width="25%">   
+        <a href="" >
+        <img height="64px" width="64px" src="" alt="MongoDb">
+      </a>
+      <br>Mongo
+</td>
+   </tr>
+</tbody>
+  </table>
+  
 
 
 <br>
@@ -54,19 +76,9 @@ I'm a Developer from Mexico. I like programm in PHP, Javascript and Typescript.
 
 <a href="#DhrumiShah_stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhdz&show_icons=true&locale=en&layout=compact&theme=onedark" alt="GabrielHDZ" />
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielhdz&show_icons=true&theme=transparent"/>
+
 </a>
 	
 <br>
 
-
-
-
-![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=668AFF)
-![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=668AFF)
-![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=668AFF)
-
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=FFFC66)
-
-[![ReactJS](https://img.shields.io/badge/Library-ReactJS-informational?style=plastic&logo=react&logoColor=white&color=informational)](https://reactjs.org/)
 
