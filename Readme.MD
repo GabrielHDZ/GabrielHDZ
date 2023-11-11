@@ -14,6 +14,37 @@ I'm a Developer from Mexico. I like programm in PHP, Javascript and Typescript.
 ![Typescript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=FF6666)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=FF6666)
 
+ <table>
+	 <tbody>
+  <tr>
+   <td align="Center" width="25%"> 
+      <a href="#dhrumi-tech" >
+        <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FF6666" width="48" height="48" alt="C" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="Center" width="25%">
+      <a href="#dhrumi-tech">
+        <img src="https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=FF6666" width="48" height="48" alt="Python" />
+      </a>
+      <br>Typescript
+    </td>
+    <td align="Center" width="25%">   
+        <a href="#dhrumi-tech" >
+        <img height="64px" width="64px" src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=FF6666">
+      </a>
+      <br>PHP
+</td>
+   </tr>
+</tbody>
+  </table>
+  
+
+
+
+
+
+
 ![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=668AFF)
 ![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=668AFF)
 ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=668AFF)
