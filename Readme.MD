@@ -18,20 +18,20 @@ I'm a Developer from Mexico. I like programm in PHP, Javascript and Typescript.
 	 <tbody>
   <tr>
    <td align="Center" width="25%"> 
-      <a href="#dhrumi-tech" >
-        <img src="" width="48" height="48" alt="C" />
+      <a href="" >
+        <img src="" width="48" height="48" alt="JS" />
       </a>
       <br>Javascript
     </td>
     <td align="Center" width="25%">
-      <a href="#dhrumi-tech">
-        <img src="" width="48" height="48" alt="Python" />
+      <a href="">
+        <img src="" width="48" height="48" alt="TS" />
       </a>
       <br>Typescript
     </td>
     <td align="Center" width="25%">   
-        <a href="#dhrumi-tech" >
-        <img height="64px" width="64px" src="">
+        <a href="" >
+        <img height="64px" width="64px" src="" alt="PHP">
       </a>
       <br>PHP
 </td>
