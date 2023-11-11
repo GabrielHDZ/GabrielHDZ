@@ -19,13 +19,13 @@ I'm a Developer from Mexico. I like programm in PHP, Javascript and Typescript.
   <tr>
    <td align="Center" width="25%"> 
       <a href="" >
-        <img src="" width="48" height="48" alt="JS" />
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="48" height="48" alt="JS" />
       </a>
       <br>Javascript
     </td>
     <td align="Center" width="25%">
       <a href="">
-        <img src="" width="48" height="48" alt="TS" />
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="48" height="48" alt="TS" />
       </a>
       <br>Typescript
     </td>
