@@ -14,6 +14,7 @@ I'm a Developer from Mexico. I like programm in PHP, Javascript and Typescript.
 ![Typescript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=FF6666)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=FF6666)
 
+>Languajes
  <table>
 	 <tbody>
   <tr>
