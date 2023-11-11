@@ -10,10 +10,6 @@ I'm a Developer from Mexico. I like programm in PHP, Javascript and Typescript.
 
 ## 🔧 Technologies & Tools.
 
-![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FF6666)
-![Typescript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=FF6666)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=FF6666)
-
 >Languajes
  <table>
 	 <tbody>
@@ -41,7 +37,27 @@ I'm a Developer from Mexico. I like programm in PHP, Javascript and Typescript.
   </table>
   
 
+>Database
 
+
+
+
+
+<br>
+
+<a href="#DhrumiShah_stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielhdz&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="gabrielhdz" />
+</a>
+
+<br>
+	
+
+<a href="#DhrumiShah_stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhdz&show_icons=true&locale=en&layout=compact&theme=onedark" alt="GabrielHDZ" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielhdz&show_icons=true&theme=transparent)
+</a>
+	
+<br>
 
 
 
