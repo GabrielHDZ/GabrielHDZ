@@ -54,7 +54,7 @@ I'm a Developer from Mexico. I like programm in PHP, Javascript and Typescript.
 
 <a href="#DhrumiShah_stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhdz&show_icons=true&locale=en&layout=compact&theme=onedark" alt="GabrielHDZ" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielhdz&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielhdz&show_icons=true&theme=transparent"/>
 </a>
 	
 <br>
