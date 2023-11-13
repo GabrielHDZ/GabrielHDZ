@@ -31,9 +31,9 @@ I'm a Developer from Mexico. I like programm in PHP, Javascript and Typescript.
         <img height="64px" width="64px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP">
       </a>
       <br>PHP
-</td>
-   </tr>
-</tbody>
+	</td>
+	   </tr>
+	</tbody>
   </table>
   
 
