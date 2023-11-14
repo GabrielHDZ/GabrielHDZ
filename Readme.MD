@@ -45,11 +45,11 @@ I'm a Developer from Mexico. I like programm in PHP, Javascript and Typescript.
       <a href="" >
         <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>Javascript
+      <br>MySQL
     </td>
     <td align="Center" width="25%">
       <a href="">
-        <img src="" width="48" height="48" alt="Postgre" />
+        <img src="https://p7.hiclipart.com/preview/358/849/109/postgresql-clip-art-database-logo-database-symbol.jpg" width="48" height="48" alt="Postgresql" />
       </a>
       <br>Postgre
     </td>
