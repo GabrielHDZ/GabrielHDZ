@@ -28,7 +28,7 @@ I'm a Developer from Mexico. I like program in PHP, Javascript and Typescript.
     </td>
     <td align="Center" width="25%">   
         <a href="" >
-        <img height="64px" width="64px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP">
+        <img height="64px" width="48" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP">
       </a>
       <br>PHP
 	</td>
