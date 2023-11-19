@@ -62,6 +62,7 @@ I'm a Developer from Mexico. I like program in PHP, Javascript and Typescript.
    </tr>
 </tbody>
   </table>
+>Stats
 <br>
 
 <a href="">
