@@ -69,8 +69,8 @@ I'm a Developer from Mexico. I like program in PHP, Javascript and Typescript.
 </a>
 
 <br>
+<br>
 	
-
 <a href="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhdz&show_icons=true&locale=en&layout=compact&theme=onedark" alt="GabrielHDZ" />
 
