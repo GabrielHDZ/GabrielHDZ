@@ -2,7 +2,6 @@ Hi. I'm GabrielHDZ
 
 I'm a Developer from Mexico. I like program in PHP, Javascript and Typescript.
 
-
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=)](https://twitter.com/GHdzHdz)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-diaz-1b38801a0)
