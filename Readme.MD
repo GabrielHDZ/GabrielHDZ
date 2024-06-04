@@ -55,7 +55,7 @@ I'm a Developer from Mexico. I like program in PHP, Js and Ts.
       <a href="">
         <img src="https://p7.hiclipart.com/preview/358/849/109/postgresql-clip-art-database-logo-database-symbol.jpg" width="48" height="48" alt="Postgresql" />
       </a>
-      <br>Postgre
+      <br>PostgreSQL
     </td>
     <td align="Center" width="25%">   
         <a href="" >
